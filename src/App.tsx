@@ -62,7 +62,7 @@ export default function App() {
           </h1>
           <div className="w-12 h-[1px] bg-brand-ink mx-auto mb-8"></div>
           <p className="text-lg md:text-xl max-w-2xl mx-auto font-light leading-relaxed text-brand-muted">
-            20년의 경험으로 디지털 세상과 소통의 즐거움을 잇습니다.
+            25년의 경험으로 디지털 세상과 소통의 즐거움을 잇습니다.
           </p>
         </motion.div>
 
@@ -87,11 +87,11 @@ export default function App() {
             >
               <h2 className="text-[10px] font-bold uppercase tracking-[0.3em] text-brand-muted mb-8">Experience</h2>
               <div className="flex items-baseline gap-3 mb-6">
-                <span className="text-9xl font-light tracking-tighter text-brand-ink">20</span>
+                <span className="text-9xl font-light tracking-tighter text-brand-ink">25</span>
                 <span className="text-2xl font-light uppercase tracking-widest text-brand-muted">Years</span>
               </div>
               <p className="text-xl leading-relaxed text-brand-muted font-light">
-                학교 및 문화센터에서 20년 동안<br/>
+                학교 및 문화센터에서 25년 동안<br/>
                 수많은 제자들과 함께해온<br/>
                 컴퓨터 & 보드게임 베테랑 강사
               </p>
@@ -108,7 +108,7 @@ export default function App() {
             <div className="space-y-8 text-brand-muted leading-relaxed font-light text-lg">
               <p>
                 저는 쉼 없는 호기심으로 세상을 탐구하는 강사입니다. 
-                20년의 세월 동안 교육 현장에서 단순히 지식을 전달하는 것을 넘어, 
+                25년의 세월 동안 교육 현장에서 단순히 지식을 전달하는 것을 넘어, 
                 새로운 것을 마주하는 <strong>'설렘'</strong>을 함께 나누어 왔습니다.
               </p>
               <p>
@@ -137,7 +137,7 @@ export default function App() {
           <div className="grid md:grid-cols-2 gap-x-20 gap-y-16">
             <div className="border-l border-white/20 pl-8 space-y-4">
               <h3 className="text-xs font-bold uppercase tracking-widest text-brand-accent">01. Education Expert</h3>
-              <p className="text-xl font-light leading-relaxed">학교 및 지자체 교육기관, 문화센터 등 20년 수업 경력</p>
+              <p className="text-xl font-light leading-relaxed">학교 및 지자체 교육기관, 문화센터 등 25년 수업 경력</p>
             </div>
             <div className="border-l border-white/20 pl-8 space-y-4">
               <h3 className="text-xs font-bold uppercase tracking-widest text-brand-accent">02. IT Specialist</h3>
